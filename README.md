@@ -9,17 +9,17 @@
 
 
 ### 🔧 Instalação
-
- 	* Copie a URL do repositório (você pode escolher entre HTTPS ou SSH) 
+  - Passos:
+ 		* Copie a URL do repositório (você pode escolher entre HTTPS ou SSH) 
   	URL:https://github.com/pablomattos/Simulador-de-Corridas-do-Mario-Kart-com-Nodejs.git
-	* Abra o Terminal ou Git Bash no seu computador.
-	* Altere o diretório de trabalho atual para o local onde deseja ter o diretório clonado.
+		* Abra o Terminal ou Git Bash no seu computador.
+		* Altere o diretório de trabalho atual para o local onde deseja ter o diretório clonado.
         * Digite o comando git clone seguido da URL que você copiou. 
-	* Por exemplo: git clone https://github.com/pablomattos/Simulador-de-Corridas-do-Mario-Kart-com-Nodejs.git
+		* Por exemplo: git clone https://github.com/pablomattos/Simulador-de-Corridas-do-Mario-Kart-com-Nodejs.git
 
   - Na IDE:
       * Abra o terminal
-      * Localize a pasta onde foi clonada o projeto e em segui
+      * Localize a pasta onde foi clonada o projeto 
       * Em seguida localize a pasta src, nela contém o arquivo "index.js"
       * Para iniciar o jogo digite: "node index.js"
 
